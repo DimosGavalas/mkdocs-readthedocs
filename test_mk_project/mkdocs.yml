@@ -1,15 +1,15 @@
 site_name: Reference Guide
 site_url: null
-use_directory_urls: false
+use_directory_urls: true
 nav:
     - Home: index.md
     - About: about.md
     - Version x.x.x.x: versionX.md
 theme: readthedocs
-plugins:
-    - search
-    - mkpdfs:
-        design: mkpdfs-design/report.css
+# plugins:
+#     - search
+#     - mkpdfs:
+#         design: mkpdfs-design/report.css
 markdown_extensions:
     - admonition
     # - pymdownx.details
