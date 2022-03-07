@@ -13,7 +13,7 @@ Markdown==3.3.6
 MarkupSafe==2.1.0
 mergedeep==1.3.4
 mkdocs==1.2.3
-mkpdf==1.0
+mkpdfs-mkdocs==1.0.1
 packaging==21.3
 Pillow==9.0.1
 pycparser==2.21
