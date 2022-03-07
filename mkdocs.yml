@@ -8,8 +8,8 @@ nav:
 theme: readthedocs
 plugins:
     - search
-    - mkpdfs:
-        design: mkpdfs-design/report.css
+    - mkpdfs
+#         design: mkpdfs-design/report.css
 markdown_extensions:
     - admonition
     # - pymdownx.details
